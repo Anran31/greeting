@@ -1,0 +1,17 @@
+{
+    "name": "anran31/greeting",
+    "description": "A simple greeting package.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Anran31\\Greeting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anran31",
+            "email": "andika.nugrahanto2002@gmail.com"
+        }
+    ],
+    "require": {}
+}
